@@ -1,11 +1,14 @@
 Thanks for using Cantone!
 
-As someone who takes privacy very seriously (to the extend that I try to pay in cash whenever possible), I also take your privacy seriously as well. As such, this app
+As someone who takes privacy very seriously, I take your privacy seriously as well. As such, 
 
-* does not collect personally identifiable information.
-* stores any data that you create (e.g. preferences, settings, etc.) on the device only - this can be erased through uninstallation.
-* No audio that the app records (e.g. calibration, attempts etc.) is stored or uploaded anywhere.
+* The app does not store any personally identifiable information.
+* Any data that you create (except as in the next point) are stored on the device only and can be erased through uninstallation.
+* The only case where we transfer data off your phone is if "Enhanced Pitch Detection" is enabled.
+  * In this case, "Try" attempts are processed on our server.
+  * We do not store data any longer than is necessary (at most a few seconds).
+  * You can opt-out of this by simply disabling this feature.
 
 If you find any issues or have any questions, please send an email to cantone.app@gmail.com
 
-Thanks!
+Thanks again!
